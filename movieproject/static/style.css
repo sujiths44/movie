@@ -1,0 +1,16 @@
+body{
+  background:ivory;
+
+}
+
+
+.btn-bot {
+  position:absolute;
+  bottom:0px;
+  margin-bottom:2em;
+
+}
+.card{
+background:rgb(230,230,240);
+min-height:90vh;
+}
